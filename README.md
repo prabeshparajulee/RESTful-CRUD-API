@@ -1,0 +1,1 @@
+This is a RESTful CRUD (Create, Read, Update, Delete) application built using express js and mongodb. The application allows users to perform basic CRUD operations books collection in database through a set of RESTful APIs.
